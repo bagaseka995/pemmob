@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Teal/Turquoise — warna utama branding Kunkun Fashion Store -->
+    <color name="teal_primary">#FF00897B</color>
+    <color name="teal_light">#FF4DD0E1</color>
+    <color name="teal_dark">#FF004F55</color>
+    <!-- Neutral -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
